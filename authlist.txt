@@ -1,0 +1,6 @@
+[
+  {
+    "domain": "magnattamenu.com.br"
+    "type": "authorized"
+  }
+]
